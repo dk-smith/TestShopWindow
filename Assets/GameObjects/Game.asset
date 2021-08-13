@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 62e55163597f7ae4b8252634fa32f34e, type: 3}
+  m_Name: Game
+  m_EditorClassIdentifier: 
+  settings: {fileID: 11400000, guid: 011e78df5822ced4d900822834291b17, type: 2}
+  canvasPrefab: {fileID: 1269851474220483149, guid: 5a0f7e06989558540b4590cc56b6da83,
+    type: 3}
+  windows:
+  - {fileID: 3838456167024067951, guid: bb59e570c4de9d445a830373dc029f56, type: 3}
+  - {fileID: 3708075677740727165, guid: 103a6bba4bcab3144a6923a8d774ca8f, type: 3}
+  shop: {fileID: 11400000, guid: c33a87528a5c5b44bb3cf95a397fb5d7, type: 2}
+  playerData: {fileID: 11400000, guid: 6cbc2991d2c004d45bac08b91557c55f, type: 2}

@@ -1,0 +1,106 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bf9b1afb567c2ed469ee334d72adaf8b, type: 3}
+  m_Name: Settings
+  m_EditorClassIdentifier: 
+  startMoney: 3000
+  shopItems:
+  - Sprites:
+    - {fileID: 0}
+    - {fileID: 0}
+    Strings:
+    - TestText
+    - 
+    Money: 0
+    Price: 150
+    ItemType: 1
+  - Sprites:
+    - {fileID: 21300000, guid: c8806bc029c068b4eb90ec5538aab580, type: 3}
+    - {fileID: 0}
+    Strings:
+    - TestText
+    - 
+    Money: 0
+    Price: 250
+    ItemType: 2
+  - Sprites:
+    - {fileID: 21300000, guid: aa16553b62dff1245b644855d69a44aa, type: 3}
+    - {fileID: 0}
+    Strings:
+    - 
+    - 
+    Money: 0
+    Price: 350
+    ItemType: 0
+  - Sprites:
+    - {fileID: 21300000, guid: 86399914000b47a48acbb789c0207b98, type: 3}
+    - {fileID: 21300000, guid: 73cddcdc7b6aec0488960e652627ecff, type: 3}
+    Strings:
+    - 
+    - 
+    Money: 0
+    Price: 800
+    ItemType: 3
+  - Sprites:
+    - {fileID: 0}
+    - {fileID: 0}
+    Strings:
+    - 
+    - 
+    Money: 400
+    Price: 0
+    ItemType: 5
+  - Sprites:
+    - {fileID: 0}
+    - {fileID: 0}
+    Strings:
+    - TestText
+    - TestText
+    Money: 0
+    Price: 200
+    ItemType: 4
+  - Sprites:
+    - {fileID: 0}
+    - {fileID: 0}
+    Strings:
+    - 
+    - 
+    Money: 300
+    Price: 0
+    ItemType: 5
+  - Sprites:
+    - {fileID: 21300000, guid: a26103796402ef245ba6209c96b06b04, type: 3}
+    - {fileID: 0}
+    Strings:
+    - TestText
+    - 
+    Money: 0
+    Price: 150
+    ItemType: 2
+  - Sprites:
+    - {fileID: 21300000, guid: 8760d8b5bf555264a965fc6e3379cfa1, type: 3}
+    - {fileID: 0}
+    Strings:
+    - 
+    - 
+    Money: 0
+    Price: 300
+    ItemType: 0
+  - Sprites:
+    - {fileID: 21300000, guid: 5f86eb3c801b7914da73f71fb844c033, type: 3}
+    - {fileID: 21300000, guid: 7cc31444710a103408bdaacff3a96c27, type: 3}
+    Strings:
+    - 
+    - 
+    Money: 0
+    Price: 500
+    ItemType: 3
